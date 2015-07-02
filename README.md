@@ -1,3 +1,3 @@
 # django-tutorial
 
-This is my Django tutprial.
+This is my Django tutorial.
